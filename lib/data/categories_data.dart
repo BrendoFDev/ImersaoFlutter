@@ -1,7 +1,7 @@
 abstract class CategoriesData {
   static List<String> listCategories = [
     'Petiscos',
-    'Pricipais',
+    'Principais',
     'Massas',
     'Sobremesas',
     'Bebidas',
